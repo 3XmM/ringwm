@@ -1,4 +1,4 @@
-```markdown
+
 # ringwm
 
 **RingWM** is an experimental window manager for X11 that arranges windows in an ellipse (ring) with the ability to rotate, enlarge the central window, and quickly switch between desktops.
