@@ -6,7 +6,7 @@
 **RingWM** is an experimental window manager for X11 that arranges windows in an ellipse (ring) with the ability to rotate, enlarge the central window, and quickly switch between desktops.
 
 ## 📹 Demo
-[![Видео-демонстрация RingWM](AB1FB8D5-ACF0-4A01-9796-DCED589F7940.mov)
+![Видео-демонстрация RingWM](AB1FB8D5-ACF0-4A01-9796-DCED589F7940.mov)
 
 > **Note:** All code was written using **vibecoding** and **Gemini** AI. for best expirience use picom
 
@@ -81,7 +81,7 @@ environment.systemPackages = with pkgs; [
 
 Then run sudo nixos-rebuild switch.
 
-🛠️ Installation
+#🛠️ Installation
 
 1. Clone the repository:
    ```bash
