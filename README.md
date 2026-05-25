@@ -81,7 +81,7 @@ environment.systemPackages = with pkgs; [
 
 Then run sudo nixos-rebuild switch.
 
-#🛠️ Installation
+# 🛠️ Installation
 
 1. Clone the repository:
    ```bash
